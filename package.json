@@ -11,7 +11,7 @@
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://ray001-sudo.github.io/Chicken_website/",
+  "homepage": "https://ray001-sudo.github.io/Ray/",
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
     "@radix-ui/react-accordion": "^1.2.0",
